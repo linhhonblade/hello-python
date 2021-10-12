@@ -1,29 +1,29 @@
-# 1. =============================================
+# 6. =============================================
 # Write a program (function!) that takes a list
 # and returns a new list that contains all the elements
 # of the first list minus all the duplicates.
 
-# 2. ==============================================
+# 7. ==============================================
 # c = [1, 12, 43, 44, 64, 45, 90, 6, 27, 231, 432, 88]
 # Use sorted() to sort c in ascendant order
 # Use filter() to filter only values greater than 50 from c
 # Use map() to double every item in c
 # Use reduce() to calculate sum of all items in c (from functools module)
 
-# 3. ==============================================
+# 8. ==============================================
 # Implement one of these sorting algorithms: bubble sort, quick sort, insertion sort, selection sort, merge sort
 
-# 4. ==============================================
+# 9. ==============================================
 # Define a class which has at least two methods:
 # getString: to get a string from console input
 # printString: to print the string in upper case.
 # Also please include simple test function to test the class methods.
 
-# 5. ==============================================
+# 10. ==============================================
 # Define a class named Rectangle which can be constructed by a length and width. 
 # The Rectangle class has a method which can compute the area. 
 
-# 6. ==============================================
+# 11. ==============================================
 # You are required to write a program to sort the (name, age, height) tuples by ascending order 
 # where name is string, age and height are numbers. 
 # The tuples are input by console. The sort criteria is:
