@@ -66,7 +66,7 @@
 # Overwrite launch() function (use formula above)
 # Implement function load_item(text_file) with input is a string of text file name
 
-# ============================================ homework project
+# ============================================ homework project (If you want more :)) )
 # Create a simulation to check whether we can launch a rocket successfully with two use cases:
 # Use-case 1:
     # rocket: weight = 18000, max_weight_29000
